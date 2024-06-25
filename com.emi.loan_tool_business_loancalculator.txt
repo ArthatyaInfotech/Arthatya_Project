@@ -5,9 +5,9 @@
   "appopen":"ca-app-pub-3940256099942544/9257395921a",
   "nativeapple":"asas",
   "appleint":"dsds",
-  "loadads":true,
-  "lottie":false,
-  "intro":true,
-  "interads":true
+  "loadads":"true",
+  "lottie":"false",
+  "intro":"true",
+  "interads":"true"
 
 }
