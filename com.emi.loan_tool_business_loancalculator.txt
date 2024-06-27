@@ -8,6 +8,6 @@
   "loadads":"false",
   "lottie":"false",
   "intro":"true",
-  "interads":"true"
+  "interads":"false"
 
 }
