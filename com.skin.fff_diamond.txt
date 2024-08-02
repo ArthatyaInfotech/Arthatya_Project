@@ -1,7 +1,7 @@
 {
-  "thoplink" : "",
+  "thoplink" : "https://www.google.com",
   "nativeImage" : "https://i.ytimg.com/vi/W4z15661RDA/maxresdefault.jpg",
   "nativeImage1" : "https://i.ytimg.com/vi/YGbiPnxUG9U/maxresdefault.jpg",
   "bannerImage" : "https://raw.githubusercontent.com/admhardik/check-Fetch/main/fetch/image%2051.png"
-  "onbackpressedImage" : "https://raw.githubusercontent.com/admhardik/check-Fetch/main/fetch/image%2051.png"
+  "onbackpressedImage" : "https://www.google.com"
 }
