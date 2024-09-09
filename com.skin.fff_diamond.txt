@@ -1,7 +1,7 @@
 {
-  "thoplink" : "",
-  "nativeImage" : "",
-  "nativeImage1" : "",
-  "bannerImage" : "",
+  "thoplink" : "https://poki.com",
+  "nativeImage" : "https://raw.githubusercontent.com/admhardik/check-Fetch/main/fetch/image%2045.png",
+  "nativeImage1" : "https://raw.githubusercontent.com/admhardik/check-Fetch/main/fetch/image%2049.png",
+  "bannerImage" : "https://raw.githubusercontent.com/admhardik/check-Fetch/main/fetch/image%2050.png",
   "onbackpressedImage" : ""
 }
